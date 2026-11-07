@@ -27,6 +27,13 @@ carlos_programador_01 = {
 
 
 ```
+
+## Professional Experience
+
+### Gobernación de Boyacá | Secretaría TIC
+
+Contributing to institutional software development, including full stack web applications, REST APIs, databases, software testing, and collaborative development using Git.
+
 ### Professional Network
 
 [LinkedIn | Carlos Pérez](https://www.linkedin.com/in/carlos-perez-ba6107219)
