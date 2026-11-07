@@ -1,4 +1,4 @@
-# 🏛️ Carlos Pérez | Full Stack Software Developer 👋💻📉📊🚀🧬
+# 🏛️ Carlos Pérez | Full Stack Software Developer 👋💻📊🚀🧬
 <img width="2172" height="724" alt="Carlos Pérez | Full Stack Software Developer" src="https://github.com/user-attachments/assets/221b752b-8ecf-4f5e-9b49-8f14d0ea4847" />
 
 ```python
