@@ -1,27 +1,33 @@
-## Hi, i'am carlos 👋💻📉📊
-![definitiva](https://github.com/user-attachments/assets/3a836ff2-2386-4bc5-8f0c-9ea68d8e3a9b)
+# 🏛️ Carlos Pérez | Full Stack Software Developer 👋💻📉📊🚀🧬
+<img width="2172" height="724" alt="Carlos Pérez | Full Stack Software Developer" src="https://github.com/user-attachments/assets/221b752b-8ecf-4f5e-9b49-8f14d0ea4847" />
 
-'''
+```python
+
 carlos_programador_01 = {
-    'technologies': ['python', 'sql', 'excel', 'power bi', 'anaconda navigator', 'google colab', 'html', 'css'],
-    'passions': ['data analysis', 'programming']
+    'technologies': [
+        'Python', 'Java', 'JavaScript', 'TypeScript',
+        'HTML', 'CSS', 'React', 'Next.js', 'NestJS',
+        'SQL', 'Supabase', 'TypeORM',
+        'Git', 'GitHub', 'Linux', 'Jest',
+        'Excel', 'Power BI', 'Google Colab',
+        'Anaconda Navigator'
+    ],
+    'passions': [
+        'Software Engineering',
+        'Full Stack Development',
+        'Software Architecture',
+        'Quality Assurance & Testing',
+        'Cybersecurity',
+        'Data Analysis',
+        'Automation',
+        'Secure Software Development',
+        'Problem Solving'
+    ]
 }
 
-'''
-you can see my linkedin 🔗: www.linkedin.com/in/carlos-perez-ba6107219
 
+```
+### Professional Network
 
-<!--
-**carlosprogramador01/carlosprogramador01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn | Carlos Pérez](https://www.linkedin.com/in/carlos-perez-ba6107219)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
